@@ -1,0 +1,718 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "productName": "Mercedes C",
+      "unitPrice": 240,
+      "unitAge": 1,
+      "unitImage": "https://im.haberturk.com/2019/08/19/ver1566826459/2514451_810x458.jpg"
+
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "productName": "Mercedes A",
+      "unitPrice": 21,
+      "unitAge": 1,
+      "unitImage": "https://www.jpauto.hu/assets/media/news/1000/cakcios.jpg"
+
+    },
+    {
+      "id": 4,
+      "categoryId": 2,
+      "productName": "BMW 1 Serisi",
+      "unitPrice": 23,
+      "unitAge": 1,
+      "unitImage": "https://cdn.motor1.com/images/mgl/mBO0v/s1/2019-bmw-m135i-xdrive.jpg"
+
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "productName": "BMW 1 Serisi",
+      "unitPrice": 21,
+      "unitAge": 1,
+      "unitImage": "https://cdn.motor1.com/images/mgl/mBO0v/s1/2019-bmw-m135i-xdrive.jpg"
+
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "productName": "BMW 2 Serisi",
+      "unitPrice": 20,
+      "unitAge": 1,
+      "unitImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTx0WHk7n7FDDAPFeyrw4gANA9VArJu6aw2zw&usqp=CAU"
+
+    },
+    {
+      "id": 7,
+      "categoryId": 7,
+      "productName": "Megane",
+      "unitPrice": 30,
+      "unitAge": 1,
+      "unitImage": "https://www.autozeitung.de/assets/styles/article_image/public/field/images/renault-megane-facelift-2020-01.jpg?itok=voArtmDr"
+
+    },
+    {
+      "id": 8,
+      "categoryId": 2,
+      "productName": "BMW 3 Serisi",
+      "unitPrice": 40,
+      "unitAge": 1,
+      "unitImage": "https://www.log.com.tr/wp-content/uploads/2018/10/2019bmw3series4.jpg"
+
+    },
+    {
+      "id": 9,
+      "categoryId": 6,
+      "productName": "Peugeot 306",
+      "unitPrice": 97,
+      "unitAge": 1,
+      "unitImage": "https://www.arabateknikbilgi.com/wp-content/uploads/2017/09/ArabaTeknikBilgi-2000-Peugeot-306-2.0-GTi.jpg"
+
+    },
+    {
+      "id": 10,
+      "categoryId": 8,
+      "productName": "Civic",
+      "unitPrice": 31,
+      "unitAge": 1,
+      "unitImage": "https://cdn.motor1.com/images/mgl/RzE0m/s1/2020-honda-civic-hatchback-facelift.jpg"
+
+    },
+    {
+      "id": 11,
+      "categoryId": 4,
+      "productName": "Jetta",
+      "unitPrice": 21,
+      "unitAge": 1,
+      "unitImage": "https://yeniarabamodelleri.net/wp-content/uploads/2018/10/Volkswagen-Jetta-688x280.jpg"
+
+    },
+    {
+      "id": 12,
+      "categoryId": 4,
+      "productName": "Passat",
+      "unitPrice": 38,
+      "unitAge": 1,
+      "unitImage": "https://www.yenimodelarabalar.com/images/userfiles/optimized/we280.jpg"
+
+    },
+    {
+      "id": 13,
+      "categoryId": 8,
+      "productName": "Jazz",
+      "unitPrice": 6,
+      "unitAge": 1,
+      "unitImage": "https://pbs.twimg.com/media/D6MlOMlU8AATjSh.jpg"
+
+    },
+    {
+      "id": 14,
+      "categoryId": 7,
+      "productName": "Symbol",
+      "unitPrice": 25,
+      "unitAge": 1,
+      "unitImage": "https://www.aracdetay.net/wp-content/uploads/2018/11/renault-symbol-1-1280x720.jpg"
+
+    },
+    {
+      "id": 15,
+      "categoryId": 2,
+      "productName": "BMW 1 Serisi",
+      "unitPrice": 15.5,
+      "unitAge": 1,
+      "unitImage": "https://cdn.motor1.com/images/mgl/mBO0v/s1/2019-bmw-m135i-xdrive.jpg"
+
+    },
+    {
+      "id": 16,
+      "categoryId": 3,
+      "productName": "Audi A6",
+      "unitPrice": 17.45,
+      "unitAge": 1,
+      "unitImage": "https://i.sozcu.com.tr/wp-content/uploads/2019/03/iecrop/1553259471_audi_a6_-kopya_16_9_1553599394-880x495.jpg"
+
+    },
+    {
+      "id": 17,
+      "categoryId": 6,
+      "productName": "Peugeot 408",
+      "unitPrice": 39,
+      "unitAge": 1,
+      "unitImage": "https://i.pinimg.com/originals/d7/ef/45/d7ef4586f0fe52468743f7723e495f70.jpg"
+
+    },
+    {
+      "id": 18,
+      "categoryId": 8,
+      "productName": "Accord",
+      "unitPrice": 62.5,
+      "unitAge": 1,
+      "unitImage": "https://cdn.motor1.com/images/mgl/g7GOo/s1/3-midsize-car-honda-accord.jpg"
+
+    },
+    {
+      "id": 19,
+      "categoryId": 3,
+      "productName": "Audi A1",
+      "unitPrice": 9.2,
+      "unitAge": 1,
+      "unitImage": "https://cdn.otopark.com/wp-content/uploads/2016/08/2014-521765-audi-a1-facelift1.jpg"
+
+    },
+    {
+      "id": 20,
+      "categoryId": 3,
+      "productName": "Audi A3",
+      "unitPrice": 81,
+      "unitAge": 1,
+      "unitImage": "https://hwp.com.tr/wp-content/uploads/2020/03/2020-Audi-A3-Sportback.jpg"
+
+    },
+    {
+      "id": 21,
+      "categoryId": 3,
+      "productName": "Audi A6",
+      "unitPrice": 10,
+      "unitAge": 1,
+      "unitImage": "https://i.sozcu.com.tr/wp-content/uploads/2019/03/iecrop/1553259471_audi_a6_-kopya_16_9_1553599394-880x495.jpg"
+
+    },
+    {
+      "id": 22,
+      "categoryId": 5,
+      "productName": "Toyota Avensis",
+      "unitPrice": 21,
+      "unitAge": 1,
+      "unitImage": "https://cdn.motor1.com/images/mgl/qOMbg/s1/2017-toyota-avenis.jpg"
+
+    },
+    {
+      "id": 23,
+      "categoryId": 5,
+      "productName": "Toyota Yaris",
+      "unitPrice": 9,
+      "unitAge": 1,
+      "unitImage": "https://www.otostil.com/wp-content/uploads/2019/10/Toyota-Yaris-2020.jpg"
+
+    },
+    {
+      "id": 24,
+      "categoryId": 1,
+      "productName": "Mercedes C Serisi",
+      "unitPrice": 4.5,
+      "unitAge": 1,
+      "unitImage": "https://im.haberturk.com/2019/08/19/ver1566826459/2514451_810x458.jpg"
+
+    },
+    {
+      "id": 25,
+      "categoryId": 3,
+      "productName": "Audi A3",
+      "unitPrice": 14,
+      "unitAge": 1,
+      "unitImage": "https://hwp.com.tr/wp-content/uploads/2020/03/2020-Audi-A3-Sportback.jpg"
+
+    },
+    {
+      "id": 26,
+      "categoryId": 3,
+      "productName": "Audi A4",
+      "unitPrice": 31.23,
+      "unitAge": 1,
+      "unitImage": "https://staticb.yolcu360.com/blog/wp-content/uploads/2020/04/20121934/a43.jpg"
+
+    },
+    {
+      "id": 27,
+      "categoryId": 3,
+      "productName": "Audi A6",
+      "unitPrice": 43.9,
+      "unitAge": 1,
+      "unitImage": "https://i.sozcu.com.tr/wp-content/uploads/2019/03/iecrop/1553259471_audi_a6_-kopya_16_9_1553599394-880x495.jpg"
+
+    },
+    {
+      "id": 28,
+      "categoryId": 7,
+      "productName": "Laguna",
+      "unitPrice": 45.6,
+      "unitAge": 1,
+      "unitImage": "https://ia.tmgrup.com.tr/b2b080/628/422/0/43/800/581?u=http://i.tmgrup.com.tr/otohaber/2017/07/27/renault-lagunanin-motor-devri-neden-duzensiz-1501160759979.jpg"
+
+    },
+    {
+      "id": 29,
+      "categoryId": 6,
+      "productName": "Peugeot 406",
+      "unitPrice": 123,
+      "unitAge": 1,
+      "unitImage": "https://www.steerr.com/static/reviews/images/cars/peugeot-406-20-16v-15051.jpg"
+
+    },
+    {
+      "id": 30,
+      "categoryId": 8,
+      "productName": "Jazz",
+      "unitPrice": 25.89,
+      "unitAge": 1,
+      "unitImage": "https://pbs.twimg.com/media/D6MlOMlU8AATjSh.jpg"
+
+    },
+    {
+      "id": 31,
+      "categoryId": 4,
+      "productName": "Tiguan",
+      "unitPrice": 12.5,
+      "unitAge": 1,
+      "unitImage": "https://www.log.com.tr/wp-content/uploads/2016/10/tiguanr6-660x371.jpg"
+
+    },
+    {
+      "id": 32,
+      "categoryId": 4,
+      "productName": "Passat",
+      "unitPrice": 32,
+      "unitAge": 1,
+      "unitImage": "https://www.yenimodelarabalar.com/images/userfiles/optimized/we280%20(1).jpg"
+
+    },
+    {
+      "id": 33,
+      "categoryId": 4,
+      "productName": "Golf",
+      "unitPrice": 2.5,
+      "unitAge": 1,
+      "unitImage": "https://cdn.webtekno.com/media/cache/content_detail_v2/article/90152/volkswagen-golf-8-fiyati-ozellikleri-1586864132.jpg"
+
+    },
+    {
+      "id": 34,
+      "categoryId": 1,
+      "productName": "Mercedes A Serisi",
+      "unitPrice": 14,
+      "unitAge": 1,
+      "unitImage": "https://www.jpauto.hu/assets/media/news/1000/cakcios.jpg"
+
+    },
+    {
+      "id": 35,
+      "categoryId": 1,
+      "productName": "Mercedes E Serisi",
+      "unitPrice": 18,
+      "unitAge": 1,
+      "unitImage": "https://www.jpauto.hu/assets/media/news/1000/cakcios.jpg"
+
+    },
+    {
+      "id": 36,
+      "categoryId": 8,
+      "productName": "Civic",
+      "unitPrice": 19,
+      "unitAge": 1,
+      "unitImage": "https://cdn.motor1.com/images/mgl/RzE0m/s1/2020-honda-civic-hatchback-facelift.jpg"
+
+    },
+    {
+      "id": 37,
+      "categoryId": 8,
+      "productName": "Jazz",
+      "unitPrice": 26,
+      "unitAge": 1,
+      "unitImage": "https://pbs.twimg.com/media/D6MlOMlU8AATjSh.jpg"
+
+    },
+    {
+      "id": 38,
+      "categoryId": 1,
+      "productName": "Mercedes E Serisi",
+      "unitPrice": 263,
+      "unitAge": 1,
+      "unitImage": "https://www.jpauto.hu/assets/media/news/1000/cakcios.jpg"
+
+    },
+    {
+      "id": 39,
+      "categoryId": 1,
+      "productName": "Mercedes C Serisi",
+      "unitPrice": 18,
+      "unitAge": 1,
+      "unitImage": "https://im.haberturk.com/2019/08/19/ver1566826459/2514451_810x458.jpg"
+
+    },
+    {
+      "id": 40,
+      "categoryId": 8,
+      "productName": "Civic",
+      "unitPrice": 18.4,
+      "unitAge": 1,
+      "unitImage": "https://cdn.motor1.com/images/mgl/RzE0m/s1/2020-honda-civic-hatchback-facelift.jpg"
+
+    },
+    {
+      "id": 41,
+      "categoryId": 8,
+      "productName": "Accord",
+      "unitPrice": 9.65,
+      "unitAge": 1,
+      "unitImage": "https://cdn.motor1.com/images/mgl/g7GOo/s1/3-midsize-car-honda-accord.jpg"
+
+    },
+    {
+      "id": 42,
+      "categoryId": 5,
+      "productName": "Toyota Corolla",
+      "unitPrice": 14,
+      "unitAge": 1,
+      "unitImage": "https://cdn.motor1.com/images/mgl/EmBpM/s3/2020-toyota-corolla-sedan.jpg"
+
+    },
+    {
+      "id": 43,
+      "categoryId": 1,
+      "productName": "Mercedes E Serisi",
+      "unitPrice": 46,
+      "unitAge": 1,
+      "unitImage": "https://www.jpauto.hu/assets/media/news/1000/cakcios.jpg"
+
+    },
+    {
+      "id": 44,
+      "categoryId": 2,
+      "productName": "BMW 1 Serisi",
+      "unitPrice": 19.45,
+      "unitAge": 1,
+      "unitImage": "https://www.otokokpit.com/wp-content/uploads/2019/10/2020-yeni-kasa-bmw-2-serisi-gran-coupe-1.jpg"
+
+    },
+    {
+      "id": 45,
+      "categoryId": 8,
+      "productName": "Civic",
+      "unitPrice": 9.5,
+      "unitAge": 1,
+      "unitImage": "https://cdn.motor1.com/images/mgl/RzE0m/s1/2020-honda-civic-hatchback-facelift.jpg"
+
+    },
+    {
+      "id": 46,
+      "categoryId": 8,
+      "productName": "Accord",
+      "unitPrice": 12,
+      "unitAge": 1,
+      "unitImage": "https://cdn.motor1.com/images/mgl/g7GOo/s1/3-midsize-car-honda-accord.jpg"
+
+    },
+    {
+      "id": 47,
+      "categoryId": 3,
+      "productName": "Audi A1 Serisi",
+      "unitPrice": 9.5,
+      "unitAge": 1,
+      "unitImage": "https://cdn.otopark.com/wp-content/uploads/2016/08/2014-521765-audi-a1-facelift1.jpg"
+
+    },
+    {
+      "id": 48,
+      "categoryId": 3,
+      "productName": "Audi A4 Serisi",
+      "unitPrice": 12.75,
+      "unitAge": 1,
+      "unitImage": "https://staticb.yolcu360.com/blog/wp-content/uploads/2020/04/20121934/a43.jpg"
+
+    },
+    {
+      "id": 49,
+      "categoryId": 3,
+      "productName": "Audi A2 Serisi",
+      "unitPrice": 20,
+      "unitAge": 1,
+      "unitImage": "https://hwp.com.tr/wp-content/uploads/2020/03/2020-Audi-A3-Sportback.jpg"
+
+    },
+    {
+      "id": 50,
+      "categoryId": 9,
+      "productName": "Ibiza",
+      "unitPrice": 16.25,
+      "unitAge": 1,
+      "unitImage": "https://www.sekizsilindir.com/wp-content/uploads/2017/02/yeni-seat-ibiza-2017-4.jpg"
+
+    },
+    {
+      "id": 51,
+      "categoryId": 7,
+      "productName": "Clio",
+      "unitPrice": 53,
+      "unitAge": 1,
+      "unitImage": "https://www.vidyoto.com/wp-content/uploads/2019/01/yeni_Renault_Clio_1-620x380.jpg"
+
+    },
+    {
+      "id": 52,
+      "categoryId": 5,
+      "productName": "Toyota Yaris",
+      "unitPrice": 7,
+      "unitAge": 1,
+      "unitImage": "https://www.otostil.com/wp-content/uploads/2019/10/Toyota-Yaris-2020.jpg"
+
+    },
+    {
+      "id": 53,
+      "categoryId": 6,
+      "productName": "Peugeot 407",
+      "unitPrice": 32.8,
+      "unitAge": 1,
+      "unitImage": "https://i.ytimg.com/vi/0YHuropikL0/hqdefault.jpg"
+
+    },
+    {
+      "id": 54,
+      "categoryId": 6,
+      "productName": "Peugeot 307",
+      "unitPrice": 7.45,
+      "unitAge": 1,
+      "unitImage": "https://www.arabateknikbilgi.com/wp-content/uploads/2018/12/Araba-Teknik-Bilgi-Peugeot-307.jpg"
+
+    },
+    {
+      "id": 55,
+      "categoryId": 6,
+      "productName": "Peugeot 206",
+      "unitPrice": 24,
+      "unitAge": 1,
+      "unitImage": "https://www.fktuningshop.com/images/urunler/peugeot-206-on-tampon-eki-esnek-plastik-resim-5344.jpg"
+
+    },
+    {
+      "id": 56,
+      "categoryId": 5,
+      "productName": "Toyota Avensis",
+      "unitPrice": 38,
+      "unitAge": 1,
+      "unitImage": "https://cdn.motor1.com/images/mgl/qOMbg/s1/2017-toyota-avenis.jpg"
+
+    },
+    {
+      "id": 57,
+      "categoryId": 5,
+      "productName": "Toyota Corolla",
+      "unitPrice": 19.5,
+      "unitAge": 1,
+      "unitImage": "https://cdn.motor1.com/images/mgl/EmBpM/s3/2020-toyota-corolla-sedan.jpg"
+
+    },
+    {
+      "id": 58,
+      "categoryId": 8,
+      "productName": "Civic",
+      "unitPrice": 13.25,
+      "unitAge": 1,
+      "unitImage": "https://cdn.motor1.com/images/mgl/RzE0m/s1/2020-honda-civic-hatchback-facelift.jpg"
+
+    },
+    {
+      "id": 59,
+      "categoryId": 4,
+      "productName": "Golf",
+      "unitPrice": 55,
+      "unitAge": 1,
+      "unitImage": "https://cdn.webtekno.com/media/cache/content_detail_v2/article/90152/volkswagen-golf-8-fiyati-ozellikleri-1586864132.jpg"
+
+    },
+    {
+      "id": 60,
+      "categoryId": 4,
+      "productName": "Jetta",
+      "unitPrice": 34,
+      "unitAge": 1,
+      "unitImage": "https://yeniarabamodelleri.net/wp-content/uploads/2018/10/Volkswagen-Jetta-688x280.jpg"
+
+    },
+    {
+      "id": 61,
+      "categoryId": 2,
+      "productName": "BMW 2 Serisi",
+      "unitPrice": 28.5,
+      "unitAge": 1,
+      "unitImage": "https://www.otokokpit.com/wp-content/uploads/2019/10/2020-yeni-kasa-bmw-2-serisi-gran-coupe-1.jpg"
+
+    },
+    {
+      "id": 62,
+      "categoryId": 9,
+      "productName": "Leon",
+      "unitPrice": 49.3,
+      "unitAge": 1,
+      "unitImage": "https://www.log.com.tr/wp-content/uploads/2020/03/2020-seat-leon-7-1280x720.jpg"
+
+    },
+    {
+      "id": 63,
+      "categoryId": 2,
+      "productName": "BMW 3 Serisi",
+      "unitPrice": 43.9,
+      "unitAge": 1,
+      "unitImage": "https://www.log.com.tr/wp-content/uploads/2018/10/2019bmw3series4.jpg"
+
+    },
+    {
+      "id": 64,
+      "categoryId": 5,
+      "productName": "Toyota Corolla",
+      "unitPrice": 33.25,
+      "unitAge": 1,
+      "unitImage": "https://cdn.motor1.com/images/mgl/EmBpM/s3/2020-toyota-corolla-sedan.jpg"
+
+      
+    },
+    {
+      "id": 65,
+      "categoryId": 2,
+      "productName": "BMW 1 Serisi",
+      "unitPrice": 21.05,
+      "unitAge": 1,
+      "unitImage": "https://cdn.motor1.com/images/mgl/mBO0v/s1/2019-bmw-m135i-xdrive.jpg"
+
+    },
+    {
+      "id": 66,
+      "categoryId": 2,
+      "productName": "BMW 3 Serisi",
+      "unitPrice": 17,
+      "unitAge": 1,
+      "unitImage": "https://www.log.com.tr/wp-content/uploads/2018/10/2019bmw3series4.jpg"
+
+    },
+    {
+      "id": 67,
+      "categoryId": 9,
+      "productName": "Ibiza",
+      "unitPrice": 14,
+      "unitAge": 1,
+      "unitImage": "https://www.sekizsilindir.com/wp-content/uploads/2017/02/yeni-seat-ibiza-2017-4.jpg"
+
+    },
+    {
+      "id": 68,
+      "categoryId": 3,
+      "productName": "Audi A3 Serisi",
+      "unitPrice": 12.5,
+      "unitAge": 1,
+      "unitImage": "https://hwp.com.tr/wp-content/uploads/2020/03/2020-Audi-A3-Sportback.jpg"
+
+    },
+    {
+      "id": 69,
+      "categoryId": 4,
+      "productName": "Jetta",
+      "unitPrice": 36,
+      "unitAge": 1,
+      "unitImage": "https://yeniarabamodelleri.net/wp-content/uploads/2018/10/Volkswagen-Jetta-688x280.jpg"
+
+    },
+    {
+      "id": 70,
+      "categoryId": 1,
+      "productName": "Mercedes C Serisi",
+      "unitPrice": 15,
+      "unitAge": 1,
+      "unitImage": "https://im.haberturk.com/2019/08/19/ver1566826459/2514451_810x458.jpg"
+
+    },
+    {
+      "id": 71,
+      "categoryId": 4,
+      "productName": "Passat",
+      "unitPrice": 21.5,
+      "unitAge": 1,
+      "unitImage": "https://www.yenimodelarabalar.com/images/userfiles/optimized/we280%20(1).jpg"
+
+    },
+    {
+      "id": 72,
+      "categoryId": 4,
+      "productName": "Golf",
+      "unitPrice": 34.8,
+      "unitAge": 1,
+      "unitImage": "https://cdn.webtekno.com/media/cache/content_detail_v2/article/90152/volkswagen-golf-8-fiyati-ozellikleri-1586864132.jpg"
+
+    },
+    {
+      "id": 73,
+      "categoryId": 9,
+      "productName": "Leon",
+      "unitPrice": 15,
+      "unitAge": 1,
+      "unitImage": "https://www.log.com.tr/wp-content/uploads/2020/03/2020-seat-leon-7-1280x720.jpg"
+
+    },
+    {
+      "id": 74,
+      "categoryId": 7,
+      "productName": "Megane",
+      "unitPrice": 10,
+      "unitAge": 1,
+      "unitImage": "https://www.autozeitung.de/assets/styles/article_image/public/field/images/renault-megane-facelift-2020-01.jpg?itok=voArtmDr"
+
+    },
+    {
+      "id": 75,
+      "categoryId": 1,
+      "productName": "Mercedes A Serisi",
+      "unitPrice": 7.75,
+      "unitAge": 1,
+      "unitImage": "https://www.jpauto.hu/assets/media/news/1000/cakcios.jpg"
+
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Mercedes",
+      "seoUrl": "mercedes"
+    },
+    {
+      "id": 2,
+      "categoryName": "BMW",
+      "seoUrl": "bmw"
+    },
+    {
+      "id": 3,
+      "categoryName": "Audi",
+      "seoUrl": "audi"
+    },
+    {
+      "id": 4,
+      "categoryName": "Volkswagen",
+      "seoUrl": "volkswagen"
+    },
+    {
+      "id": 5,
+      "categoryName": "Toyota",
+      "seoUrl": "toyota"
+    },
+    {
+      "id": 6,
+      "categoryName": "Peugeot",
+      "seoUrl": "peugeot"
+    },
+    {
+      "id": 7,
+      "categoryName": "Renault",
+      "seoUrl": "renault"
+    },
+    {
+      "id": 8,
+      "categoryName": "Honda",
+      "seoUrl": "honda"
+    },
+    {
+      "id": 9,
+      "categoryName": "Seat",
+      "seoUrl": "seat"
+    }
+  ]
+}
