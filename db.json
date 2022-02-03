@@ -188,33 +188,6 @@
       "unitAge": 1,
       "unitImage": "https://cdn.webtekno.com/media/cache/content_detail_v2/article/90152/volkswagen-golf-8-fiyati-ozellikleri-1586864132.jpg"
 
-    },
-    {
-      "id": 73,
-      "categoryId": 9,
-      "productName": "Leon",
-      "unitPrice": 15,
-      "unitAge": 1,
-      "unitImage": "https://www.log.com.tr/wp-content/uploads/2020/03/2020-seat-leon-7-1280x720.jpg"
-
-    },
-    {
-      "id": 74,
-      "categoryId": 7,
-      "productName": "Megane",
-      "unitPrice": 10,
-      "unitAge": 1,
-      "unitImage": "https://www.autozeitung.de/assets/styles/article_image/public/field/images/renault-megane-facelift-2020-01.jpg?itok=voArtmDr"
-
-    },
-    {
-      "id": 75,
-      "categoryId": 1,
-      "productName": "Mercedes A Serisi",
-      "unitPrice": 7.75,
-      "unitAge": 1,
-      "unitImage": "https://www.jpauto.hu/assets/media/news/1000/cakcios.jpg"
-
     }
   ],
   "categories": [
